@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#eff6ff"/>
+  <text x="400" y="280" font-family="Arial" font-size="24" fill="#2563eb" text-anchor="middle">
+    Risk Graph Placeholder
+  </text>
+  <text x="400" y="320" font-family="Arial" font-size="16" fill="#60a5fa" text-anchor="middle">
+    Chart.js / Recharts visualization
+  </text>
+  <!-- Simple line chart placeholder -->
+  <polyline points="100,500 200,400 300,450 400,300 500,350 600,250 700,200" 
+            fill="none" stroke="#3b82f6" stroke-width="3"/>
+  <rect x="50" y="50" width="700" height="500" fill="none" stroke="#bfdbfe" stroke-width="2" stroke-dasharray="10,5"/>
+</svg>

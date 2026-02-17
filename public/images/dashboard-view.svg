@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f3f4f6"/>
+  <text x="400" y="280" font-family="Arial" font-size="24" fill="#6b7280" text-anchor="middle">
+    Dashboard Screenshot Placeholder
+  </text>
+  <text x="400" y="320" font-family="Arial" font-size="16" fill="#9ca3af" text-anchor="middle">
+    Replace with actual dashboard screenshot
+  </text>
+  <rect x="50" y="50" width="700" height="500" fill="none" stroke="#d1d5db" stroke-width="2" stroke-dasharray="10,5"/>
+</svg>
